@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alex-Mora0110/wolf/issues"
   },
-  "homepage": "https://github.com/Alex-Mora0110/wolf#readme"
+  "homepage": "https://github.com/Alex-Mora0110/wolf#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
